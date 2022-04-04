@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pandemia</string>
+    <string name="pais">Pais:</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="datos_de_pandemia">Datos de Pandemia</string>
+    <string name="casos">Casos:</string>
+    <string name="poblacion">Poblacion:</string>
+    <string name="nombre_del_pais">Nombre del pais</string>
+    <string name="recuperados">Recuperados:</string>
+</resources>
